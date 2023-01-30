@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FFA000</color>
+    <color name="colorAccent">#009688</color>
+    <color name="pyv">#32CD32</color>
+    <color name="poslednibarva">#0000FF</color>
+    <color name="prumer_pink">#FF1493</color>
+</resources>

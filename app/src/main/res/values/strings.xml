@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trojčlenka</string>
+    <string name="item">Item</string>
+    <string name="nav_back">Home</string>
+    <string name="nav_Trojclenka">Trojčlenka</string>
+    <string name="nav_ciselne_soustavy">Číselné soustavy</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
